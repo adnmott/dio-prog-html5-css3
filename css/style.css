@@ -1,0 +1,17 @@
+body {
+    background: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+.imgSection {
+    margin-bottom: 20px;
+}
+
+.imgContato {
+    margin-bottom: 0px;
+}
